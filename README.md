@@ -1,6 +1,5 @@
 # Berryyummy Korean-food-recommendation
 대한민국의 음식 추천
-(한국인은 뭐다? 밥심이다.(?))
 
 쌀 음식
 
